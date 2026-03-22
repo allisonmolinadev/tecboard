@@ -35,7 +35,7 @@ body {
 .titulo {
     color: var(--off-white);
     font-family: var(--fonte-titulo);
-    font-size: 5em;
+    font-size: 4em;
 }
 
 .fique-de-olho {
